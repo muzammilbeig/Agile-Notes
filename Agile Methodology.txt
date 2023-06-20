@@ -1,0 +1,152 @@
+Agile Methodology
+
+agr bich project me kuch changes krna h to Agile se kr skte h
+old methods me nhi kr pate the
+
+Why do need agile?
+What is Agile?
+Key terms?
+Advantages?
+How to implement?
+Various framework?
+---
+
+1. Why do need agile?
+	Monolothic - isme ek hi me sb hota h
+			frontend- backend -API - services
+			agr kisi ek me gadbad hui to gya pura project
+	
+	Waterfall model -	(ye old h)
+		Requirement gathering
+		Soft design
+		Implementation
+		Verification
+		Maintenance
+------------------------
+
+2. What is Agile?
+	It is a chain of rapid development and deployment
+	
+	Plan--->Design--->Develop--->Test--->Deploy--->Review--->Launch
+
+	Iteration - specific task complete in specific priority
+------------------
+
+3.Key terms of Agile?
+   Values of Agile
+	1. People Over Processes and tools
+		people centric
+
+	2. Working soft over comprehensive documentation
+		all the tasks, 100-150 pages documentaion
+		development is more important than documentation
+	
+	3. Customer collaboration over Rigid contracts
+		works more on feedback, break into smaller tasks
+
+	4. Responding to change rather than following a plan
+		any task modified on the requirement
+		u have benefit and value
+--
+
+Principles of Agile
+	1. Satisfy the customer
+	2. Welcome changing requirement
+	3. Deliver working software frequently
+	4. Frequent interaction with stakeholders
+	5. Motivated individuals
+	6. Face to face commuications
+	7. Measure by working software
+	8. Maintain constant pace
+	9. Sustain technical excellence and good design
+	10 Keep it simple
+	11 Empower self-organizing teams
+	12 Reflect and adjust continuously
+-----------------------	
+
+4. Advantages of Agile?
+	1. Persistent software delivery
+	2. Increased stakeholder satisfaction
+	3. Inspect and adapt
+	4. Welcome to changes at any stage
+	5. Design is important
+	6. Daily interection
+--------------
+
+5. How to implement Agile?
+	1. Scrum
+	2. extreme programming
+	3. Lean
+	4. Kanban
+	5. Crystal
+--
+
+ 1. Scrum
+	Iterate changes/development
+	Plan-->Build-->Test-->Review
+
+	Product Owner(manager) - have the responsibility
+	Scrum Master(team leader) - handle day to day operation
+	Team (tester, developer)
+
+	Product Backlogs
+		Product owner and Scrum master will take care of this
+
+	User Stories
+
+	Sprint Backlog
+		Sprint Planning
+		Daily Scrum(15 min meeting)
+		Sprint timing - 2 weeks
+		
+		//After 2 weeks
+		Sprint review(after ending od User stories)
+
+	Jo bhi code kra h usko check kr skte h in dev environment
+
+Dig of Scrum
+	Product backlog-->Sprint planning-->Sprint Backlog-->Scrum Team-->Review
+---
+
+ 2. Extreme Programming(XP)
+	People centric environment
+	discipline
+	Deployment
+
+	Project Requirement			Customer Input
+	Stories					Iteration planning meeting
+	Test cases		Iteration	Customer testing
+	Tasks					Acceptance Tests
+	Completion		Story metrics
+	Automated Unit testing
+----------
+
+ 3. Lean
+	Eliminate Waste
+	Amplify Learning
+	Decide as late as possible
+	Decide as fast as possible
+	Empower the team
+	Build integrity
+	See the whole
+
+	Task design with timeline environment
+--------
+
+ 4. Kanban
+	Similar to scrum
+	It is a continuous process, no sprints in this.
+-----
+
+ 5. Crystal
+			Clear    Yellow    Orange    Red    Maroon
+	Life		 L6	  L20	    L40	     L80     L200
+	
+	Essential	 E6	  E20	    E40	     E80     E200
+
+	Discretionary	 D6	  D20	    D40	     D80     D200
+		
+	Comfort		 C6	  C20	    C40	     C80     C200
+
+	People envolved	 1-6	  7-20	   21-40    41-80    81-200
+--------------------     
